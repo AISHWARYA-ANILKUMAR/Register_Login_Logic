@@ -1,0 +1,40 @@
+/* styles.css */
+
+/* Add your custom styles here */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 150px 0;
+}
+
+header h1 {
+    font-size: 3em;
+}
+
+header p {
+    font-size: 1.5em;
+}
+
+.btn-primary {
+    background-color: #28a745;
+    border-color: #28a745;
+}
+
+.btn-primary:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+}
+
+section {
+    padding: 80px 0;
+}
+
+footer {
+    color: #fff;
+    padding: 20px 0;
+}
